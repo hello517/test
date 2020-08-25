@@ -19,3 +19,10 @@ https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUxaw-F3kmbkTPAgfG
 
 #EXTINF:-1 tvg-id="Drama Sangat" group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/dramasangat.png", Dama Sangat(SD)
 https://stream-02.ty4.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0puq0OZ6KGc933V-agv2GAM)/dm/3/x6zvnex/s/live-2.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 tvg-ID="TV Okey.MY" tvg-logo="https://myklik.rtm.gov.my/image/tvTVOKEYlogo.jpg.jpg" group-title = "Malaysia", TV OKEY(SD)
+https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b564000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-ID="TV Okey.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20RTM%20Sports%20Mac%2020%20-%20WhiteBG.jpg" group-title = "Malaysia", TV Sukan RTM(SD)
+https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b564000.m3u8|Referer=https://myklik.rtm.gov.my
+
