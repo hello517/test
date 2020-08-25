@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://myklik.rtm.gov.my/image/tvTV1logo-New2.jpg" group-title = "Malaysia", TV1(SD)
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b564000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://myklik.rtm.gov.my/image/tvTV2logo.jpg" group-title = "Malaysia", TV2(SD)
+https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b564000.m3u8|Referer=https://myklik.rtm.gov.my
+
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title = "Malaysia", TV3(SD)
 https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYft4m7qE5fGtjLlzHG91j4)/dm/3/x6qp375/d/live-2.m3u8|Referer=https://www.dailymotion.com
 
