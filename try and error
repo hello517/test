@@ -6,7 +6,7 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b564000.m3u8|Re
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b564000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title = "Malaysia", TV3(SD)
-https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYft4m7qE5fGtjLlzHG91j4)/dm/3/x6qp375/d/live-2.m3u8|Referer=https://www.dailymotion.com
+https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYft4m7qE5fGtjLlzHG91j4)/dm/3/x6qp375/d/live-1.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title = "Malaysia", NTV 7(SD
 https://stream-02.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQYpdm_Ks4SWQX0l_M3-N-k)/dm/3/x6qp6ou/s/live-2.m3u8|Referer=https://www.dailymotion.com
@@ -24,5 +24,5 @@ https://stream-02.ty4.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0puq0OZ6KGc933V-ag
 https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b564000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-ID="TV Okey.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20RTM%20Sports%20Mac%2020%20-%20WhiteBG.jpg" group-title = "Malaysia", TV Sukan RTM(SD)
-https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b564000.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b564000.m3u8|Referer=https://myklik.rtm.gov.my 
 
