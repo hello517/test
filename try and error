@@ -6,8 +6,14 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b564000.m3u8|Re
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://myklik.rtm.gov.my/image/tvTV2logo.jpg" group-title = "Malaysia", TV2(SD)
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b564000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title = "Malaysia", TV3(SD)
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title = "Malaysia", TV3(SD 380)
 https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdX_V64T4P_O-rfUOvhfZq0)/dm/3/x6qp375/d/live-1.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title = "Malaysia", TV3(SD 480p)
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHThDYGNwJb3AATeXleQB13Y)/dm/3/x6qp375/d/live-2.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title = "Malaysia", TV3(HD)
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHThDYGNwJb3AATeXleQB13Y)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
 #EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title = "Malaysia", NTV 7(SD
 https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaBCXvrkFUjzb6nl_qw3-1A)/dm/3/x6qp6ou/s/live-2.m3u8|Referer=https://www.dailymotion.com
